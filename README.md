@@ -6,7 +6,7 @@ Framework for building command line utilities with Node.js
 License
 -------
 
-MIT-style license, see [INSTALL.txt](http://github.com/jheusala/js-snippets/blob/master/LICENSE.txt).
+MIT-style license, see [INSTALL.txt](http://github.com/jheusala/node-easycli/blob/master/LICENSE.txt).
 
 Usage
 -----
