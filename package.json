@@ -1,14 +1,14 @@
 {
-  "name": "cli",
+  "name": "easycli",
   "description": "Framework for building command line utilities with Node.js",
   "version": "0.0.1",
-  "homepage": "http://github.com/jheusala/node-cli",
+  "homepage": "http://github.com/jheusala/node-easycli",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jheusala/node-cli.git"
+    "url": "git://github.com/jheusala/node-easycli.git"
   },
   "author": "Jaakko-Heikki Heusala <jheusala@iki.fi> (http://www.jhh.me)",
-  "main": "lib/cli.js",
+  "main": "lib/easycli.js",
   "directories": {
     "lib": "lib"
   },

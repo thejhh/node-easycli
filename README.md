@@ -1,4 +1,4 @@
-node-cli
+node-easycli
 ========
 
 Framework for building command line utilities with Node.js
