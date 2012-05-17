@@ -16,6 +16,8 @@
     "node": "*"
   },
   "dependencies": {
+    "optimist": "*",
+    "wordwrap": "*",
     "snippets" : "*"
   },
   "devDependencies": {}
