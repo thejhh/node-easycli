@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/jheusala/node-easycli.png)](http://travis-ci.org/jheusala/node-easycli)
 node-easycli
 ========
 
